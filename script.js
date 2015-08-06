@@ -4,7 +4,7 @@
 // @include     http://agar.io/*
 // @version     3.063
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      OmarBenitez
 // ==/UserScript==
 
 var aposLauncherVersion = 3.063;
@@ -1294,7 +1294,7 @@ console.log("Running Bot Launcher!");
                 dArc = [],
                 dText = [],
                 lines = [],
-                names = ["NotReallyABot"],
+                names = ["﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽"],
                 originalName = names[Math.floor(Math.random() * names.length)],
                 sessionScore = 0,
                 serverIP = "",
